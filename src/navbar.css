@@ -1,0 +1,21 @@
+#style{
+    background-color: #3b108a;
+    font-family:'Comfortaa', cursive;
+    position: sticky;
+        
+}
+#style {
+  background-color: #ca1895; /* Custom dark pink */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-nav .nav-link {
+  color: #fff !important;
+  margin-right: 15px;
+  transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #ffe9f3 !important;
+}
+
